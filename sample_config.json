@@ -1,0 +1,8 @@
+{
+  "rpc": "https://mainnet.infura.io/v3/YOUR-PROJECT-ID",
+  "sender_private_keys": [
+    "private_key_1",
+    "private_key_2"
+  ],
+  "receiver_address": "0x1234567890123456789012345678901234567890"
+}
